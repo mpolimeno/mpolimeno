@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 💻 I am a graduate student in Applied Math. I am interested in Fluid Dynamics, Stochastic Systems and Scientific and High Performance Computing
+
+### :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpolimeno&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpolimeno&show_icons=true&theme=radical)
+
