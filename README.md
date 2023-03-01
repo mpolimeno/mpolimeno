@@ -31,9 +31,9 @@ About me section, with Github stats
 ### I am a graduate student in Applied Math. I am interested in Fluid Dynamics, Stochastic Systems and Scientific and High Performance Computing
 
 ### 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpolimeno&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpolimeno&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpolimeno&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpolimeno&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 Badges
