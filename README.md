@@ -28,7 +28,7 @@ About me section, with Github stats
 -->
 
 ### 👨‍💻 About me:
-### I am a PhD Candidate in Applied Math, interested in PDEs, Scientific Computing and HPC. Currently, I conduct research work in Fluid Dynamics and Stochastic Systems.
+### Applied Math Ph.D., interested in PDEs, Scientific Computing and HPC.
 
 ### 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpolimeno&theme=dark&background=000000)](https://git.io/streak-stats)
