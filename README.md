@@ -25,7 +25,7 @@ Gif at top of the page
 
 <!--
 About me section, with Github stats
--->
+
 
 ### 👨‍💻 About me:
 ### Applied Math Ph.D., interested in PDEs, Scientific Computing and HPC.
@@ -34,6 +34,7 @@ About me section, with Github stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpolimeno&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpolimeno&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpolimeno&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 Badges
